@@ -12,4 +12,4 @@ The Level/Game will be a 3D First Person Platformer, were you must jump, run, et
 
 Refer to Level Design Document for more details.
 
-!(MapLayout.png)
+![Image of Map](MapLayout.png)
