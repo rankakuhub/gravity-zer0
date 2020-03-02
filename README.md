@@ -11,4 +11,5 @@ We attend to downscale, even the textures to around 128x128 to increase the old 
 The Level/Game will be a 3D First Person Platformer, were you must jump, run, etc., to progress further.
 
 Refer to Level Design Document for more details.
-MapLayout.png
+
+(MapLayout.png)
